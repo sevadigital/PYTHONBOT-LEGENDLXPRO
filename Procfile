@@ -1,1 +1,1 @@
-worker: bash PYTHONBOT-LEGEND
+worker: bash PYTHONBOT-LEGENDLX
